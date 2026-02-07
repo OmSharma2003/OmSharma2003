@@ -1,5 +1,10 @@
 # 💫 About Me:
-- I’m currently working on full-stack web development and AI-based projects  <br>- I’m looking to collaborate on open-source, web apps, and beginner-friendly AI/ML projects  <br>-  I’m currently learning React, backend development, and improving problem-solving skills  <br>- Ask me about C++, JavaScript, Python, web development, or computer science basics  <br>- Fun fact: I enjoy turning complex problems into simple logic and clean code
+👋 Hi, I’m Om Sharma — a Full-Stack Developer with hands-on experience in building scalable MERN stack applications.
+
+I enjoy working across the stack, from designing responsive UIs to building secure REST APIs and authentication systems. I have a strong foundation in problem-solving (300+ DSA problems solved) and a growing interest in AI and machine learning concepts.
+
+Currently, I’m sharpening my skills in React, backend development, and system-level thinking while building real-world projects. I love turning complex requirements into clean, simple, and maintainable code.
+
 
 
 ## 🌐 Socials:
